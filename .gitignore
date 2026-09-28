@@ -1,0 +1,26 @@
+# AVR build outputs
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+*.lst
+*.o
+*.d
+*.a
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+*.tmp
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build directories
+build/
+dist/
